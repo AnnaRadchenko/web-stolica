@@ -1,0 +1,30 @@
+/*block with diamond*/
+
+.wrapper{
+    width: 90%;
+}
+
+/*menu on diamond*/
+.nav{
+    height: 120px; 
+}
+
+.nav li{
+    padding: 7px;
+}
+
+.nav li a{
+    font: italic  125% serif;
+}
+
+/*form*/
+.container{
+    max-width: 90%;
+    padding: 0.5em; 
+}
+
+/*social networks*/
+.footer{
+    width: 70%;
+}
+
